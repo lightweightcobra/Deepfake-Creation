@@ -22,4 +22,5 @@ The project is motivated by the need to address the societal impact of deepfake 
 The contributions of the project include the creation of specialized datasets, advancement of robust detection models, raising awareness about deepfake threats, and fostering collaboration within the research community. Related works like Faceswap and Video to Video Synthesis are discussed to provide context to the project.
 ## Proposed Methodology
 The proposed methodology involves preprocessing datasets, creating baseline models, adding LSTM to the model, and utilizing LSTM based GANs with flow. Detailed explanations and network architectures are provided for each step.
+
 This README file provides a comprehensive overview of the deepfake generation and detection project, highlighting its objectives, methodology, results, and future directions. It serves as a guide for users interested in understanding the project's scope and contributions.
